@@ -1,4 +1,5 @@
 🏠 Housing Price Prediction using Linear Regression
+
 This project demonstrates Simple and Multiple Linear Regression using the Housing.csv dataset. The goal is to predict house prices based on features such as area, number of bedrooms, and amenities using Python libraries like Scikit-learn, Pandas, and Matplotlib.
 
 Libraries Used
